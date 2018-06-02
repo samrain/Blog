@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.samrainhan.com/about/</loc>
+    <lastmod>2018-06-02T11:05:13+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.samrainhan.com/posts/2016-12-26-how-remote-connect-by-powershell/</loc>
     <lastmod>2016-12-26T00:00:00+00:00</lastmod>
   </url>
@@ -755,11 +760,6 @@
   <url>
     <loc>http://www.samrainhan.com/posts/2015-06-21-emacs-dir-mode/</loc>
     <lastmod>2015-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.samrainhan.com/about/</loc>
-    <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
