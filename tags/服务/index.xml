@@ -6,10 +6,19 @@
     <description>Recent content in 服务 on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jun 2018 10:28:18 +0800</lastBuildDate>
     
 	<atom:link href="https://www.samrainhan.com/tags/%E6%9C%8D%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>常用SAAS服务</title>
+      <link>https://www.samrainhan.com/posts/2018-06-05-list-of-regular-saas/</link>
+      <pubDate>Tue, 05 Jun 2018 10:28:18 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-06-05-list-of-regular-saas/</guid>
+      <description>常用SAAS服务列表： DigitalOcean 用于服务器 Linode 用于更多的服务器 Cloudflare 用于 DNS 和 SSL Ottomatik 用于数据库备份 AWS 用于存储和队列 Pusher 用于实时事件 Authy 用于双因子认证</description>
+    </item>
     
     <item>
       <title>删除windows服务</title>
