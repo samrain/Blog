@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2018-06-05-tips-of-installing-net-framework-462-in-winserv2012/</loc>
+    <lastmod>2018-06-05T09:45:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2018-06-04-tips-of-bmw-x5-key/</loc>
     <lastmod>2018-06-04T14:36:52+08:00</lastmod>
   </url>
@@ -2422,6 +2427,12 @@
   </url>
   
   <url>
+    <loc>https://www.samrainhan.com/tags/framework/</loc>
+    <lastmod>2018-06-05T09:45:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/tags/ftp/</loc>
     <lastmod>2014-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2909,7 +2920,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2018-06-04T14:36:52+08:00</lastmod>
+    <lastmod>2018-06-05T09:45:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3071,6 +3082,12 @@
   <url>
     <loc>https://www.samrainhan.com/tags/serif/</loc>
     <lastmod>2015-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.samrainhan.com/tags/server/</loc>
+    <lastmod>2018-06-05T09:45:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3370,13 +3387,13 @@
   
   <url>
     <loc>https://www.samrainhan.com/tags/windows/</loc>
-    <lastmod>2016-12-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-05T09:45:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.samrainhan.com/categories/work/</loc>
-    <lastmod>2018-06-04T14:27:55+08:00</lastmod>
+    <lastmod>2018-06-05T09:45:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3394,7 +3411,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2018-06-04T14:36:52+08:00</lastmod>
+    <lastmod>2018-06-05T09:45:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
