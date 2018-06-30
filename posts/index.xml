@@ -6,10 +6,19 @@
     <description>Recent content in Posts on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 29 Jun 2018 16:58:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jun 2018 14:30:17 +0800</lastBuildDate>
     
 	<atom:link href="https://www.samrainhan.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>清除SqlServer AlwaysOn日志</title>
+      <link>https://www.samrainhan.com/posts/2018-06-30-clear-logs-of-sqlserver-alwayson/</link>
+      <pubDate>Sat, 30 Jun 2018 14:30:17 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-06-30-clear-logs-of-sqlserver-alwayson/</guid>
+      <description>--dbName为数据库名 use dbName BACKUP LOG dbName To DISK = N&#39;nul&#39; go dbcc shrinkfile(dbName_log,0, TRUNCATEONLY) go dbcc shrinkdatabase(dbName,0, TRUNCATEONLY) go</description>
+    </item>
     
     <item>
       <title>QQ 微信和WPS在移动端的协作场景</title>
