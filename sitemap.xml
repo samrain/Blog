@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2018-09-10-surface-crash-self-help/</loc>
+    <lastmod>2018-09-10T21:07:42+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2018-09-10-start-or-stop-sites-by-powershell/</loc>
     <lastmod>2018-09-10T21:00:21+08:00</lastmod>
   </url>
@@ -2974,7 +2979,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
+    <lastmod>2018-09-10T21:07:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3260,6 +3265,12 @@
   </url>
   
   <url>
+    <loc>https://www.samrainhan.com/tags/surface%E6%AD%BB%E6%9C%BA%E8%87%AA%E6%95%91/</loc>
+    <lastmod>2018-09-10T21:07:42+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/tags/svn/</loc>
     <lastmod>2014-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3465,7 +3476,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/categories/work/</loc>
-    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
+    <lastmod>2018-09-10T21:07:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3489,7 +3500,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
+    <lastmod>2018-09-10T21:07:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
