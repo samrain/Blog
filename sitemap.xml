@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2018-09-10-install-opserver/</loc>
+    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2018-06-30-clear-logs-of-sqlserver-alwayson/</loc>
     <lastmod>2018-06-30T14:30:17+08:00</lastmod>
   </url>
@@ -2903,6 +2908,12 @@
   </url>
   
   <url>
+    <loc>https://www.samrainhan.com/tags/opserver-%E7%9B%91%E6%8E%A7-net/</loc>
+    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/tags/org-mode/</loc>
     <lastmod>2016-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2958,7 +2969,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2018-06-30T14:30:17+08:00</lastmod>
+    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3443,7 +3454,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/categories/work/</loc>
-    <lastmod>2018-06-30T14:30:17+08:00</lastmod>
+    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3467,7 +3478,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2018-06-30T14:30:17+08:00</lastmod>
+    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
     <priority>0</priority>
   </url>
   
