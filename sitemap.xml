@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2018-09-10-start-or-stop-sites-by-powershell/</loc>
+    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2018-09-10-install-opserver/</loc>
     <lastmod>2018-09-10T20:51:30+08:00</lastmod>
   </url>
@@ -2969,7 +2974,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
+    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2982,6 +2987,12 @@
   <url>
     <loc>https://www.samrainhan.com/tags/powershell/</loc>
     <lastmod>2016-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.samrainhan.com/tags/powershell-site/</loc>
+    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3454,7 +3465,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/categories/work/</loc>
-    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
+    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3478,7 +3489,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2018-09-10T20:51:30+08:00</lastmod>
+    <lastmod>2018-09-10T21:00:21+08:00</lastmod>
     <priority>0</priority>
   </url>
   
