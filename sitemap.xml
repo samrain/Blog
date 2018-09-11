@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2018-09-11-recursively-queries-a-file-in-a-directory-and-outputs-it-as-a-full-path/</loc>
+    <lastmod>2018-09-11T12:16:33+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2018-09-11-exclude-some-files-while-rsyncing/</loc>
     <lastmod>2018-09-11T12:05:47+08:00</lastmod>
   </url>
@@ -3009,7 +3014,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
+    <lastmod>2018-09-11T12:16:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3028,6 +3033,12 @@
   <url>
     <loc>https://www.samrainhan.com/tags/powershell-site/</loc>
     <lastmod>2018-09-10T21:00:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.samrainhan.com/tags/powershellwindowsfile-name/</loc>
+    <lastmod>2018-09-11T12:16:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3518,7 +3529,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/categories/work/</loc>
-    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
+    <lastmod>2018-09-11T12:16:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3542,7 +3553,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
+    <lastmod>2018-09-11T12:16:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
