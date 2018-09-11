@@ -6,10 +6,19 @@
     <description>Recent content on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 11 Sep 2018 10:18:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 11:33:28 +0800</lastBuildDate>
     
 	<atom:link href="https://www.samrainhan.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如果用脚本迁移SQLServer数据库</title>
+      <link>https://www.samrainhan.com/posts/2018-09-11-migrate-sqlserver-database/</link>
+      <pubDate>Tue, 11 Sep 2018 11:33:28 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-11-migrate-sqlserver-database/</guid>
+      <description>迁移非系统数据库 use master go sp_detach_db &#39;非系统数据库&#39; go use master go sp_attach_db &#39;非系统数据库&#39;,&#39;C:\Sqldata\非系统数据库.mdf&#39;,&#39;C:\Sqldata\</description>
+    </item>
     
     <item>
       <title>让您的屏幕在黑白和彩色之间自由切换</title>
