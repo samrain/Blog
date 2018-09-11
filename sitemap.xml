@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2018-09-11-update-stored-procedures/</loc>
+    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2018-09-11-migrate-sqlserver-database/</loc>
     <lastmod>2018-09-11T11:33:28+08:00</lastmod>
   </url>
@@ -2999,7 +3004,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2018-09-11T11:33:28+08:00</lastmod>
+    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3245,6 +3250,12 @@
   <url>
     <loc>https://www.samrainhan.com/tags/sqlserver/</loc>
     <lastmod>2018-06-30T14:30:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.samrainhan.com/tags/sqlserver%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3502,7 +3513,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/categories/work/</loc>
-    <lastmod>2018-09-11T11:33:28+08:00</lastmod>
+    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3526,7 +3537,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2018-09-11T11:33:28+08:00</lastmod>
+    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
