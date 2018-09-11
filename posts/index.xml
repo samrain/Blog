@@ -6,10 +6,21 @@
     <description>Recent content in Posts on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 11 Sep 2018 11:40:50 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 12:05:47 +0800</lastBuildDate>
     
 	<atom:link href="https://www.samrainhan.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在rsync时避免同步某些文件</title>
+      <link>https://www.samrainhan.com/posts/2018-09-11-exclude-some-files-while-rsyncing/</link>
+      <pubDate>Tue, 11 Sep 2018 12:05:47 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-11-exclude-some-files-while-rsyncing/</guid>
+      <description> list.exclude
+Config/dll.config Logger.config  rsync4test.bat
+set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level=9 --protocol=29 --delete /cygdrive/c/test/ rsync://localhost:18731/test --exclude-from=list.exclude   </description>
+    </item>
     
     <item>
       <title>更新SQLServer存储过程的脚本模版</title>

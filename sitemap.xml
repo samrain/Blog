@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2018-09-11-exclude-some-files-while-rsyncing/</loc>
+    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2018-09-11-update-stored-procedures/</loc>
     <lastmod>2018-09-11T11:40:50+08:00</lastmod>
   </url>
@@ -3004,7 +3009,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
+    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3148,7 +3153,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/tags/rsync/</loc>
-    <lastmod>2016-06-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3513,7 +3518,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/categories/work/</loc>
-    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
+    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3537,7 +3542,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2018-09-11T11:40:50+08:00</lastmod>
+    <lastmod>2018-09-11T12:05:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
