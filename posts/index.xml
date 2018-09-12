@@ -6,10 +6,104 @@
     <description>Recent content in Posts on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 11 Sep 2018 12:16:33 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 21:04:04 +0800</lastBuildDate>
     
 	<atom:link href="https://www.samrainhan.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>运动拉伸最佳实践</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-sports-stretching-best-practices/</link>
+      <pubDate>Wed, 12 Sep 2018 21:04:04 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-sports-stretching-best-practices/</guid>
+      <description>1.热身运动 1.1低强度训练5～10分钟 1.2旋转关节 顺序，手指，手腕，手肘，肩部，颈部，腰（腰椎段），胯（髋关节），膝（膝关节），脚脖子（</description>
+    </item>
+    
+    <item>
+      <title>给tempdb加2个文件做缓存</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-add-2-files-to-tempdb-for-caching/</link>
+      <pubDate>Wed, 12 Sep 2018 20:23:16 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-add-2-files-to-tempdb-for-caching/</guid>
+      <description>sql脚本如下： USE [master]; GO alter database tempdb modify file (name=&#39;tempdev&#39;, size = 8GB); GO /* Adding three additional files */ USE [master]; GO ALTER DATABASE [tempdb] ADD FILE (NAME = N&#39;tempdev2&#39;, FILENAME = N&#39;E:\SQLDATA\tempdev2.ndf&#39; , SIZE = 8GB , FILEGROWTH = 0); GO</description>
+    </item>
+    
+    <item>
+      <title>如何找到没有聚集索引的表</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-look-for-sql-server-tables-without-a-clustered-index/</link>
+      <pubDate>Wed, 12 Sep 2018 19:47:17 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-look-for-sql-server-tables-without-a-clustered-index/</guid>
+      <description>sql如下： SELECT TOP 1000 o.name, i.type_desc, o.type_desc, o.create_date FROM sys.indexes i INNER JOIN sys.objects o ON i.object_id = o.object_id WHERE o.type_desc = &#39;USER_TABLE&#39; AND i.type_desc = &#39;HEAP&#39; ORDER BY o.name GO 参考： https://www.mssqltips.com/sqlservertip/2510/sql-server-tables-without-a-clustered-index/ https://www.brentozar.com/blitz/heaps-tables-without-primary-key-clustered-index/</description>
+    </item>
+    
+    <item>
+      <title>持续实施成熟度模型</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-the-continuous-delivery-maturity-model/</link>
+      <pubDate>Wed, 12 Sep 2018 17:59:56 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-the-continuous-delivery-maturity-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>持续发布的各个阶段</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-map-of-continuous-delivery/</link>
+      <pubDate>Wed, 12 Sep 2018 17:18:30 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-map-of-continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropbox的用户密码加密机制</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-how-dropbox-securely-stores-your-passwords/</link>
+      <pubDate>Wed, 12 Sep 2018 16:24:46 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-how-dropbox-securely-stores-your-passwords/</guid>
+      <description>英文原文在Dropbox官博https://blogs.dropbox.com/tech/2016/09/how-dropbox-secur</description>
+    </item>
+    
+    <item>
+      <title>NET代码检查工具</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-code-inspection-tool-for-net/</link>
+      <pubDate>Wed, 12 Sep 2018 10:54:11 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-code-inspection-tool-for-net/</guid>
+      <description>1.检查是否符合编码标准的工具 FxCop，StyleCop和ReSharper 2.静态分析工具 Coverity，Sonar，CAT.NET和</description>
+    </item>
+    
+    <item>
+      <title>怎样生成唯一ID</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-how-to-make-unique-id/</link>
+      <pubDate>Wed, 12 Sep 2018 10:05:42 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-how-to-make-unique-id/</guid>
+      <description>1. 数据库自增长序列或字段 最常见的方式。利用数据库，全数据库唯一。 优点： 简单，代码方便，性能可以接受。 数字ID天然排序，对分页或者需要排序的结</description>
+    </item>
+    
+    <item>
+      <title>在Emacs中按照黄金分割比例调整屏幕</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-resize-your-windows-to-the-golden-ratio-in-emacs/</link>
+      <pubDate>Wed, 12 Sep 2018 09:56:20 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-resize-your-windows-to-the-golden-ratio-in-emacs/</guid>
+      <description>after install golden ratio package,let&amp;rsquo;s add it:
+(use-package golden-ratio :ensure t :diminish golden-ratio-mode :init (golden-ratio-mode 1))  </description>
+    </item>
+    
+    <item>
+      <title>Bosun go编写的跨平台监控系统</title>
+      <link>https://www.samrainhan.com/posts/2018-09-12-what-is-bosun/</link>
+      <pubDate>Wed, 12 Sep 2018 09:46:47 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2018-09-12-what-is-bosun/</guid>
+      <description>http://localhost:8070/
+http://bosun.org/scollector/
+http://bosun.org/quickstart#scollector
+http://zhengheng.me/2015/12/09/bosun-install/</description>
+    </item>
     
     <item>
       <title>递归查询某个目录下的某种文件并输出为全路径文件名</title>

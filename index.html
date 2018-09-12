@@ -74,29 +74,12 @@
     
         
             <li>
-                <aside class="dates">Sep 11</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-11-recursively-queries-a-file-in-a-directory-and-outputs-it-as-a-full-path/'>
-                    递归查询某个目录下的某种文件并输出为全路径文件名
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-sports-stretching-best-practices/'>
+                    运动拉伸最佳实践
                     
                         
-                            <h2>用管理员权限启动PowerShell，然后执行以下脚本： Get-ChildItem -Recurse *.dll -path c:\test|%{$_.FullName}</h2>
-                        
-                    
-                </a>
-            </li>
-        
-    
-    
-        
-            <li>
-                <aside class="dates">Sep 11</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-11-exclude-some-files-while-rsyncing/'>
-                    在rsync时避免同步某些文件
-                    
-                        
-                            <h2> list.exclude
-Config/dll.config Logger.config  rsync4test.bat
-set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level=9 --protocol=29 --delete /cygdrive/c/test/ rsync://localhost:18731/test --exclude-from=list.exclude   </h2>
+                            <h2>1.热身运动 1.1低强度训练5～10分钟 1.2旋转关节 顺序，手指，手腕，手肘，肩部，颈部，腰（腰椎段），胯（髋关节），膝（膝关节），脚脖子（</h2>
                         
                     
                 </a>
@@ -106,27 +89,12 @@ set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level
     
         
             <li>
-                <aside class="dates">Sep 11</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-11-update-stored-procedures/'>
-                    更新SQLServer存储过程的脚本模版
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-add-2-files-to-tempdb-for-caching/'>
+                    给tempdb加2个文件做缓存
                     
                         
-                            <h2>/****** Object: StoredProcedure [dbo].[存储过程名] Script Date: 2018-08-31 11:09 ******/ if exists (select top(1) id from sysobjects where id = object_id(N&#39;存储过程名&#39;) and OBJECTPROPERTY(id, N&#39;IsProcedure&#39;) = 1) DROP PROCEDURE [dbo].[存储过程名]</h2>
-                        
-                    
-                </a>
-            </li>
-        
-    
-    
-        
-            <li>
-                <aside class="dates">Sep 11</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-11-migrate-sqlserver-database/'>
-                    如果用脚本迁移SQLServer数据库
-                    
-                        
-                            <h2>迁移非系统数据库 use master go sp_detach_db &#39;非系统数据库&#39; go use master go sp_attach_db &#39;非系统数据库&#39;,&#39;C:\Sqldata\非系统数据库.mdf&#39;,&#39;C:\Sqldata\</h2>
+                            <h2>sql脚本如下： USE [master]; GO alter database tempdb modify file (name=&#39;tempdev&#39;, size = 8GB); GO /* Adding three additional files */ USE [master]; GO ALTER DATABASE [tempdb] ADD FILE (NAME = N&#39;tempdev2&#39;, FILENAME = N&#39;E:\SQLDATA\tempdev2.ndf&#39; , SIZE = 8GB , FILEGROWTH = 0); GO</h2>
                         
                     
                 </a>
@@ -136,27 +104,12 @@ set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level
     
         
             <li>
-                <aside class="dates">Sep 11</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-11-switch-screen-between-black-and-white-and-color/'>
-                    让您的屏幕在黑白和彩色之间自由切换
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-look-for-sql-server-tables-without-a-clustered-index/'>
+                    如何找到没有聚集索引的表
                     
                         
-                            <h2>Ctrl &#43; WindowsKey &#43; C 可以让您的屏幕在黑白和彩色之间自由切换</h2>
-                        
-                    
-                </a>
-            </li>
-        
-    
-    
-        
-            <li>
-                <aside class="dates">Sep 11</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-11-list-to-go-abroad/'>
-                    出国物品清单
-                    
-                        
-                            <h2>牙刷（非电动）牙膏 牙套 酒精片 肥皂 香皂 洗手皂 卷筒纸 抽纸 湿纸巾 床单 睡袋 随身充电器 车载充电器 充电宝×2 随身听 书 画本 雨伞/雨披 防水鞋 毛线帽 手套 隐形眼</h2>
+                            <h2>sql如下： SELECT TOP 1000 o.name, i.type_desc, o.type_desc, o.create_date FROM sys.indexes i INNER JOIN sys.objects o ON i.object_id = o.object_id WHERE o.type_desc = &#39;USER_TABLE&#39; AND i.type_desc = &#39;HEAP&#39; ORDER BY o.name GO 参考： https://www.mssqltips.com/sqlservertip/2510/sql-server-tables-without-a-clustered-index/ https://www.brentozar.com/blitz/heaps-tables-without-primary-key-clustered-index/</h2>
                         
                     
                 </a>
@@ -166,27 +119,12 @@ set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level
     
         
             <li>
-                <aside class="dates">Sep 11</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-11-what-is-the-core-value-of-the-product-manager/'>
-                    产品经理的核心价值是什么
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-the-continuous-delivery-maturity-model/'>
+                    持续实施成熟度模型
                     
                         
-                            <h2>发现用户的需求并定义客户价值，同时准确传递这个需求与价值给团队成员，并推动团队去很好的满足这个需求最终将价值传递出去。</h2>
-                        
-                    
-                </a>
-            </li>
-        
-    
-    
-        
-            <li>
-                <aside class="dates">Sep 10</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-10-surface-crash-self-help/'>
-                    surface死机自救法
-                    
-                        
-                            <h2>一般导致Surface无法正常开机有以下的几点原因： Windows更新没有优化到最新版本 不正常关机（电量完全耗尽在充电、强制关机等） 系统性能</h2>
+                            <h2></h2>
                         
                     
                 </a>
@@ -196,12 +134,12 @@ set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level
     
         
             <li>
-                <aside class="dates">Sep 10</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-10-start-or-stop-sites-by-powershell/'>
-                    怎么在PowerShell中启停站点
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-map-of-continuous-delivery/'>
+                    持续发布的各个阶段
                     
                         
-                            <h2>启动 start-website -name &#34;&#34; 停止 stop-website -name &#34;&#34;</h2>
+                            <h2></h2>
                         
                     
                 </a>
@@ -211,12 +149,76 @@ set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level
     
         
             <li>
-                <aside class="dates">Sep 10</aside>
-                <a href='https://www.samrainhan.com/posts/2018-09-10-install-opserver/'>
-                    安装Opserver
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-how-dropbox-securely-stores-your-passwords/'>
+                    Dropbox的用户密码加密机制
                     
                         
-                            <h2>1 build报错 需要将其他目录下的【Microsoft.WebApplication.targets】目录复制到【C:\Program Files (x</h2>
+                            <h2>英文原文在Dropbox官博https://blogs.dropbox.com/tech/2016/09/how-dropbox-secur</h2>
+                        
+                    
+                </a>
+            </li>
+        
+    
+    
+        
+            <li>
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-code-inspection-tool-for-net/'>
+                    NET代码检查工具
+                    
+                        
+                            <h2>1.检查是否符合编码标准的工具 FxCop，StyleCop和ReSharper 2.静态分析工具 Coverity，Sonar，CAT.NET和</h2>
+                        
+                    
+                </a>
+            </li>
+        
+    
+    
+        
+            <li>
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-how-to-make-unique-id/'>
+                    怎样生成唯一ID
+                    
+                        
+                            <h2>1. 数据库自增长序列或字段 最常见的方式。利用数据库，全数据库唯一。 优点： 简单，代码方便，性能可以接受。 数字ID天然排序，对分页或者需要排序的结</h2>
+                        
+                    
+                </a>
+            </li>
+        
+    
+    
+        
+            <li>
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-resize-your-windows-to-the-golden-ratio-in-emacs/'>
+                    在Emacs中按照黄金分割比例调整屏幕
+                    
+                        
+                            <h2>after install golden ratio package,let’s add it:
+(use-package golden-ratio :ensure t :diminish golden-ratio-mode :init (golden-ratio-mode 1))  </h2>
+                        
+                    
+                </a>
+            </li>
+        
+    
+    
+        
+            <li>
+                <aside class="dates">Sep 12</aside>
+                <a href='https://www.samrainhan.com/posts/2018-09-12-what-is-bosun/'>
+                    Bosun go编写的跨平台监控系统
+                    
+                        
+                            <h2>http://localhost:8070/
+http://bosun.org/scollector/
+http://bosun.org/quickstart#scollector
+http://zhengheng.me/2015/12/09/bosun-install/</h2>
                         
                     
                 </a>
