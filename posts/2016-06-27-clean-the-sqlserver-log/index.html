@@ -14,7 +14,7 @@
   
   
   <meta name="twitter:title" content="清理sqlserver数据库日志"/>
-  <meta name="twitter:description" content="&ndash; %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询 -- USE %DNName% -- GO -- SELECT file_id, name FROM sys.database_files; USE [master] GO ALTER DATABASE %DNName% SET RECOVERY SIMPLE WITH"/>
+  <meta name="twitter:description" content="-- %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询 -- USE %DNName% -- GO -- SELECT file_id, name FROM sys.database_files; USE [master] GO ALTER DATABASE %DNName% SET RECOVERY SIMPLE WITH"/>
   
   
   
@@ -27,7 +27,7 @@
 		
 		<meta name="author" content="韩雨">
 		<meta name="description" content="学习 &amp;nbsp;&amp;bull;&amp;nbsp; 生活">
-		<meta name="generator" content="Hugo 0.47.1" />
+		<meta name="generator" content="Hugo 0.54.0" />
 		<title>清理sqlserver数据库日志 &middot; sam的小窝</title>
 		<link rel="shortcut icon" href="https://www.samrainhan.com/images/favicon.ico">
 		<link rel="stylesheet" href="https://www.samrainhan.com/css/style.css">
@@ -89,9 +89,9 @@
                   
                 
                 <section id="post-body">
-                    <p>&ndash; %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询</p>
+                    <pre><code>-- %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询
 
-<pre><code>-- USE %DNName%
+-- USE %DNName%
 
 -- GO
 
@@ -159,6 +159,10 @@ GO
     
     
         <li>
+            <a href="/posts/2019-02-16-why-build-blog-with-cloud9/">2019 02 16 Why Build Blog With Cloud9<aside class="dates">Feb 16 2019</aside></a>
+        </li>
+    
+        <li>
             <a href="/posts/2018-09-12-sports-stretching-best-practices/">运动拉伸最佳实践<aside class="dates">Sep 12 2018</aside></a>
         </li>
     
@@ -194,10 +198,6 @@ GO
             <a href="/posts/2018-09-12-resize-your-windows-to-the-golden-ratio-in-emacs/">在Emacs中按照黄金分割比例调整屏幕<aside class="dates">Sep 12 2018</aside></a>
         </li>
     
-        <li>
-            <a href="/posts/2018-09-12-what-is-bosun/">Bosun go编写的跨平台监控系统<aside class="dates">Sep 12 2018</aside></a>
-        </li>
-    
 </ul>
 
             
@@ -227,7 +227,7 @@ GO
     
     <p class="small">
     
-       © Copyright 2018 <i class="fa fa-heart" aria-hidden="true"></i> 韩雨
+       © Copyright 2019 <i class="fa fa-heart" aria-hidden="true"></i> 韩雨
     
     </p>
     <p class="small">
