@@ -6,10 +6,19 @@
     <description>Recent content on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 16 Feb 2019 15:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2019 14:52:53 +0000</lastBuildDate>
     
 	<atom:link href="https://www.samrainhan.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cloud9 Move to Aws C9</title>
+      <link>https://www.samrainhan.com/posts/2019-04-26-c9-move-to-aws-c9/</link>
+      <pubDate>Fri, 26 Apr 2019 14:52:53 +0000</pubDate>
+      
+      <guid>https://www.samrainhan.com/posts/2019-04-26-c9-move-to-aws-c9/</guid>
+      <description>hello world</description>
+    </item>
     
     <item>
       <title>2019 02 16 Why Build Blog With Cloud9</title>
@@ -98,7 +107,8 @@
       <pubDate>Wed, 12 Sep 2018 09:56:20 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-12-resize-your-windows-to-the-golden-ratio-in-emacs/</guid>
-      <description>after install golden ratio package,let&amp;rsquo;s add it: (use-package golden-ratio :ensure t :diminish golden-ratio-mode :init (golden-ratio-mode 1))</description>
+      <description>after install golden ratio package,let&amp;rsquo;s add it:
+(use-package golden-ratio :ensure t :diminish golden-ratio-mode :init (golden-ratio-mode 1))  </description>
     </item>
     
     <item>
@@ -107,7 +117,11 @@
       <pubDate>Wed, 12 Sep 2018 09:46:47 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-12-what-is-bosun/</guid>
-      <description>http://localhost:8070/ http://bosun.org/scollector/ http://bosun.org/quickstart#scollector http://zhengheng.me/2015/12/09/bosun-install/ http://localhost:8070/hello world!</description>
+      <description>http://localhost:8070/
+http://bosun.org/scollector/
+http://bosun.org/quickstart#scollector
+http://zhengheng.me/2015/12/09/bosun-install/
+http://localhost:8070/hello world!</description>
     </item>
     
     <item>
@@ -125,7 +139,9 @@
       <pubDate>Tue, 11 Sep 2018 12:05:47 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-11-exclude-some-files-while-rsyncing/</guid>
-      <description>list.exclude Config/dll.config Logger.config rsync4test.bat set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level=9 --protocol=29 --delete /cygdrive/c/test/ rsync://localhost:18731/test --exclude-from=list.exclude</description>
+      <description> list.exclude
+Config/dll.config Logger.config  rsync4test.bat
+set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level=9 --protocol=29 --delete /cygdrive/c/test/ rsync://localhost:18731/test --exclude-from=list.exclude   </description>
     </item>
     
     <item>
@@ -134,7 +150,7 @@
       <pubDate>Tue, 11 Sep 2018 11:40:50 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-11-update-stored-procedures/</guid>
-      <description>`/****** Object: StoredProcedure [dbo].[存储过程名] Script Date: 2018-08-31 11:09 ******/` if exists (select top(1) id from sysobjects where id = object_id(N&#39;存储过程名&#39;) and OBJECTPROPERTY(id, N&#39;IsProcedure&#39;) = 1) DROP PROCEDURE [dbo].[存储过程名]</description>
+      <description>/****** Object: StoredProcedure [dbo].[存储过程名] Script Date: 2018-08-31 11:09 ******/ if exists (select top(1) id from sysobjects where id = object_id(N&#39;存储过程名&#39;) and OBJECTPROPERTY(id, N&#39;IsProcedure&#39;) = 1) DROP PROCEDURE [dbo].[存储过程名]</description>
     </item>
     
     <item>
@@ -494,7 +510,8 @@
       <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2016-07-14-icon-query-website/</guid>
-      <description>https://www.iconfinder.com/ https://thenounproject.com/</description>
+      <description>https://www.iconfinder.com/
+https://thenounproject.com/</description>
     </item>
     
     <item>
@@ -629,7 +646,7 @@
       <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2016-06-29-display-the-current-computer-catalog-with-js/</guid>
-      <description>&#34;</description>
+      <description>&#34; </description>
     </item>
     
     <item>
@@ -647,7 +664,7 @@
       <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2016-06-27-clean-the-sqlserver-log/</guid>
-      <description>-- %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询 -- USE %DNName% -- GO -- SELECT file_id, name FROM sys.database_files; USE [master] GO ALTER DATABASE %DNName% SET RECOVERY SIMPLE WITH</description>
+      <description>&amp;ndash; %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询 -- USE %DNName% -- GO -- SELECT file_id, name FROM sys.database_files; USE [master] GO ALTER DATABASE %DNName% SET RECOVERY SIMPLE WITH</description>
     </item>
     
     <item>
@@ -710,7 +727,7 @@
       <pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2016-06-20-java-code-for-http-requests-the-entire-url/</guid>
-      <description>String url=request.getScheme()+&amp;quot;://&amp;quot;; url+=request.getHeader(&amp;quot;host&amp;quot;); url+=request.getRequestURI(); if(request.getQueryString()!=null) url+=&amp;quot;?&amp;quot;+request.getQueryString();</description>
+      <description>String url=request.getScheme()+&amp;rdquo;://&amp;ldquo;; url+=request.getHeader(&amp;ldquo;host&amp;rdquo;); url+=request.getRequestURI(); if(request.getQueryString()!=null) url+=&amp;ldquo;?&amp;rdquo;+request.getQueryString();</description>
     </item>
     
     <item>
@@ -782,7 +799,7 @@
       <pubDate>Sun, 12 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2016-06-12-export-virtual-machine-on-citrix/</guid>
-      <description>xe vm-export vm=&amp;quot;192.168.25.20(GUR)&amp;quot; filename=20.xva</description>
+      <description>xe vm-export vm=&amp;ldquo;192.168.25.20(GUR)&amp;rdquo; filename=20.xva</description>
     </item>
     
     <item>
@@ -800,7 +817,7 @@
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2016-06-10-rsync-client-script/</guid>
-      <description># 1.设置ssh自动登录 # 2.测试，看服务器上有那些文件 rsync -e &amp;quot;ssh&amp;quot; --list-only 3:/home/vsmaster/rsynctest/ # 3.同步 rsync -aczP --compress-level=9 --protocol=29 --delete -e &amp;quot;ssh&amp;quot; 3:/home/vsmaster/rsynctest/ ~/下载/test/</description>
+      <description>1.设置ssh自动登录 # 2.测试，看服务器上有那些文件 rsync -e &amp;quot;ssh&amp;quot; --list-only 3:/home/vsmaster/rsynctest/ # 3.同步 rsync -aczP --compress-level=9 --protocol=29 --delete -e &amp;quot;ssh&amp;quot; 3:/home/vsmaster/rsynctest/ ~/下载/test/</description>
     </item>
     
     <item>
@@ -2042,7 +2059,7 @@
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2015-02-10-common-linux-operating/</guid>
-      <description></description>
+      <description> </description>
     </item>
     
     <item>
@@ -2785,10 +2802,10 @@
     
     <item>
       <title>大型网站群的建设及管理模式</title>
-      <link>https://www.samrainhan.com/posts/2014-06-10-large-group-of-construction-and-site-management-model/</link>
+      <link>https://www.samrainhan.com/posts/2014-06-10-large-group-of-construction-and-site--management-model/</link>
       <pubDate>Tue, 10 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.samrainhan.com/posts/2014-06-10-large-group-of-construction-and-site-management-model/</guid>
+      <guid>https://www.samrainhan.com/posts/2014-06-10-large-group-of-construction-and-site--management-model/</guid>
       <description>中国企业的信息化建设自20世纪90年代开始，域名（网站）、企业邮箱、OA是企业信息化的起步点，随着拨号上网用户的增加，以及1999-2001</description>
     </item>
     

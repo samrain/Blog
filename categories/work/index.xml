@@ -53,7 +53,8 @@
       <pubDate>Wed, 12 Sep 2018 09:56:20 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-12-resize-your-windows-to-the-golden-ratio-in-emacs/</guid>
-      <description>after install golden ratio package,let&amp;rsquo;s add it: (use-package golden-ratio :ensure t :diminish golden-ratio-mode :init (golden-ratio-mode 1))</description>
+      <description>after install golden ratio package,let&amp;rsquo;s add it:
+(use-package golden-ratio :ensure t :diminish golden-ratio-mode :init (golden-ratio-mode 1))  </description>
     </item>
     
     <item>
@@ -62,7 +63,11 @@
       <pubDate>Wed, 12 Sep 2018 09:46:47 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-12-what-is-bosun/</guid>
-      <description>http://localhost:8070/ http://bosun.org/scollector/ http://bosun.org/quickstart#scollector http://zhengheng.me/2015/12/09/bosun-install/ http://localhost:8070/hello world!</description>
+      <description>http://localhost:8070/
+http://bosun.org/scollector/
+http://bosun.org/quickstart#scollector
+http://zhengheng.me/2015/12/09/bosun-install/
+http://localhost:8070/hello world!</description>
     </item>
     
     <item>
@@ -80,7 +85,9 @@
       <pubDate>Tue, 11 Sep 2018 12:05:47 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-11-exclude-some-files-while-rsyncing/</guid>
-      <description>list.exclude Config/dll.config Logger.config rsync4test.bat set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level=9 --protocol=29 --delete /cygdrive/c/test/ rsync://localhost:18731/test --exclude-from=list.exclude</description>
+      <description> list.exclude
+Config/dll.config Logger.config  rsync4test.bat
+set PATH=%PATH%;C:\Program Files (x86)\cwRsync\bin\ rsync -azcP --compress-level=9 --protocol=29 --delete /cygdrive/c/test/ rsync://localhost:18731/test --exclude-from=list.exclude   </description>
     </item>
     
     <item>
@@ -89,7 +96,7 @@
       <pubDate>Tue, 11 Sep 2018 11:40:50 +0800</pubDate>
       
       <guid>https://www.samrainhan.com/posts/2018-09-11-update-stored-procedures/</guid>
-      <description>`/****** Object: StoredProcedure [dbo].[存储过程名] Script Date: 2018-08-31 11:09 ******/` if exists (select top(1) id from sysobjects where id = object_id(N&#39;存储过程名&#39;) and OBJECTPROPERTY(id, N&#39;IsProcedure&#39;) = 1) DROP PROCEDURE [dbo].[存储过程名]</description>
+      <description>/****** Object: StoredProcedure [dbo].[存储过程名] Script Date: 2018-08-31 11:09 ******/ if exists (select top(1) id from sysobjects where id = object_id(N&#39;存储过程名&#39;) and OBJECTPROPERTY(id, N&#39;IsProcedure&#39;) = 1) DROP PROCEDURE [dbo].[存储过程名]</description>
     </item>
     
     <item>

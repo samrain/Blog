@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.samrainhan.com/posts/2019-04-26-c9-move-to-aws-c9/</loc>
+    <lastmod>2019-04-26T14:52:53+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.samrainhan.com/posts/2019-02-16-why-build-blog-with-cloud9/</loc>
     <lastmod>2019-02-16T15:57:22+00:00</lastmod>
   </url>
@@ -1548,7 +1553,7 @@
   </url>
   
   <url>
-    <loc>https://www.samrainhan.com/posts/2014-06-10-large-group-of-construction-and-site-management-model/</loc>
+    <loc>https://www.samrainhan.com/posts/2014-06-10-large-group-of-construction-and-site--management-model/</loc>
     <lastmod>2014-06-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -2159,13 +2164,13 @@
   
   <url>
     <loc>https://www.samrainhan.com/tags/</loc>
-    <lastmod>2019-02-16T15:57:22+00:00</lastmod>
+    <lastmod>2019-04-26T14:52:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.samrainhan.com/categories/</loc>
-    <lastmod>2019-02-16T15:57:22+00:00</lastmod>
+    <lastmod>2019-04-26T14:52:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2326,7 +2331,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/categories/</loc>
-    <lastmod>2019-02-16T15:57:22+00:00</lastmod>
+    <lastmod>2019-04-26T14:52:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3112,7 +3117,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/posts/</loc>
-    <lastmod>2019-02-16T15:57:22+00:00</lastmod>
+    <lastmod>2019-04-26T14:52:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3441,7 +3446,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/tags/</loc>
-    <lastmod>2019-02-16T15:57:22+00:00</lastmod>
+    <lastmod>2019-04-26T14:52:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3663,7 +3668,7 @@
   
   <url>
     <loc>https://www.samrainhan.com/</loc>
-    <lastmod>2019-02-16T15:57:22+00:00</lastmod>
+    <lastmod>2019-04-26T14:52:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
