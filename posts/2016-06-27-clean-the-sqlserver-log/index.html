@@ -14,7 +14,7 @@
   
   
   <meta name="twitter:title" content="清理sqlserver数据库日志"/>
-  <meta name="twitter:description" content="&ndash; %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询 -- USE %DNName% -- GO -- SELECT file_id, name FROM sys.database_files; USE [master] GO ALTER DATABASE %DNName% SET RECOVERY SIMPLE WITH"/>
+  <meta name="twitter:description" content="-- %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询 -- USE %DNName% -- GO -- SELECT file_id, name FROM sys.database_files; USE [master] GO ALTER DATABASE %DNName% SET RECOVERY SIMPLE WITH"/>
   
   
   
@@ -27,7 +27,7 @@
 		
 		<meta name="author" content="韩雨">
 		<meta name="description" content="学习 &amp;nbsp;&amp;bull;&amp;nbsp; 生活">
-		<meta name="generator" content="Hugo 0.40.1" />
+		<meta name="generator" content="Hugo 0.52" />
 		<title>清理sqlserver数据库日志 &middot; sam的小窝</title>
 		<link rel="shortcut icon" href="https://www.samrainhan.com/images/favicon.ico">
 		<link rel="stylesheet" href="https://www.samrainhan.com/css/style.css">
@@ -89,9 +89,9 @@
                   
                 
                 <section id="post-body">
-                    <p>&ndash; %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询</p>
+                    <pre><code>-- %DNName_Log% 如果不知道在sys.database_files里是什么名字的话，可以用以下注释的语句进行查询
 
-<pre><code>-- USE %DNName%
+-- USE %DNName%
 
 -- GO
 
@@ -246,14 +246,17 @@ GO
 
 
   
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-37708730-1', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-37708730-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
 
