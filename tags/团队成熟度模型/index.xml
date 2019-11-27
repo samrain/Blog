@@ -6,12 +6,17 @@
     <description>Recent content in 团队,成熟度,模型 on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 26 Nov 2019 13:32:42 +0800</lastBuildDate>
+=======
+    <lastBuildDate>Mon, 25 Nov 2019 19:04:07 +0800</lastBuildDate>
+>>>>>>> 1bd1a39b5b808fd2709748575532367b50358a93
     
 	<atom:link href="https://www.samrainhan.com/tags/%E5%9B%A2%E9%98%9F%E6%88%90%E7%86%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>阶段总结模板</title>
       <link>https://www.samrainhan.com/posts/2019-11-26-phase-summary-template/</link>
       <pubDate>Tue, 26 Nov 2019 13:32:42 +0800</pubDate>
@@ -21,6 +26,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 1bd1a39b5b808fd2709748575532367b50358a93
       <title>团队成熟度模型</title>
       <link>https://www.samrainhan.com/posts/2019-11-25-team-maturity-model/</link>
       <pubDate>Mon, 25 Nov 2019 19:04:07 +0800</pubDate>
