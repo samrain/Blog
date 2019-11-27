@@ -6,11 +6,7 @@
     <description>Recent content in Categories on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-<<<<<<< HEAD
     <lastBuildDate>Wed, 27 Nov 2019 22:29:07 +0800</lastBuildDate>
-=======
-    <lastBuildDate>Tue, 26 Nov 2019 13:32:42 +0800</lastBuildDate>
->>>>>>> 1bd1a39b5b808fd2709748575532367b50358a93
     
 	<atom:link href="https://www.samrainhan.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,11 +14,7 @@
     <item>
       <title>work</title>
       <link>https://www.samrainhan.com/categories/work/</link>
-<<<<<<< HEAD
       <pubDate>Wed, 27 Nov 2019 22:29:07 +0800</pubDate>
-=======
-      <pubDate>Tue, 26 Nov 2019 13:32:42 +0800</pubDate>
->>>>>>> 1bd1a39b5b808fd2709748575532367b50358a93
       
       <guid>https://www.samrainhan.com/categories/work/</guid>
       <description></description>
