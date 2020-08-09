@@ -6,10 +6,19 @@
     <description>Recent content in Tags on sam的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Aug 2020 11:10:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 11:44:42 +0800</lastBuildDate>
     
 	<atom:link href="https://www.samrainhan.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>酒席,座位</title>
+      <link>https://www.samrainhan.com/tags/%E9%85%92%E5%B8%AD%E5%BA%A7%E4%BD%8D/</link>
+      <pubDate>Sun, 09 Aug 2020 11:44:42 +0800</pubDate>
+      
+      <guid>https://www.samrainhan.com/tags/%E9%85%92%E5%B8%AD%E5%BA%A7%E4%BD%8D/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>信托</title>
@@ -3171,7 +3180,7 @@
     </item>
     
     <item>
-      <title>.net</title>
+      <title>.NET</title>
       <link>https://www.samrainhan.com/tags/.net/</link>
       <pubDate>Mon, 11 May 2015 00:00:00 +0000</pubDate>
       
@@ -6942,7 +6951,7 @@
     </item>
     
     <item>
-      <title>ide</title>
+      <title>IDE</title>
       <link>https://www.samrainhan.com/tags/ide/</link>
       <pubDate>Thu, 22 Nov 2012 00:00:00 +0000</pubDate>
       
