@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI on sam的小窝</title>
-    <link>https://www.samrainhan.com/tags/ai/</link>
-    <description>Recent content in AI on sam的小窝</description>
+    <title>AIGC on sam的小窝</title>
+    <link>https://www.samrainhan.com/tags/aigc/</link>
+    <description>Recent content in AIGC on sam的小窝</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 07 May 2024 23:32:28 +0800</lastBuildDate>
-    <atom:link href="https://www.samrainhan.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.samrainhan.com/tags/aigc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>企业AIGC实践案例小结</title>
       <link>https://www.samrainhan.com/posts/2024-05-07-summary-of-enterprise-aigc-practice-cases/</link>
       <pubDate>Tue, 07 May 2024 23:32:28 +0800</pubDate>
       <guid>https://www.samrainhan.com/posts/2024-05-07-summary-of-enterprise-aigc-practice-cases/</guid>
       <description>内容生成(39) 结构化信息归纳总结 文案、科研项目书生成 宣传内容、广告等生成 根据产品生成卖点介绍 办公辅助(36) 会议纪要 、邮件编写 合同管理、合</description>
-    </item>
-    <item>
-      <title>文字描述生成图片</title>
-      <link>https://www.samrainhan.com/posts/2023-01-14-text-to-generate-picture/</link>
-      <pubDate>Sat, 14 Jan 2023 20:38:19 +0800</pubDate>
-      <guid>https://www.samrainhan.com/posts/2023-01-14-text-to-generate-picture/</guid>
-      <description>最火的是： https://openai.com/dall-e-2/ 清华的： https://models.aminer.cn/CogView/ 百度的： https://wenxin.baidu.com/moduleApi/ernieVilg 其他免费的： https://art.elbo.ai/ https://creator.nolibox.com/guest</description>
     </item>
   </channel>
 </rss>
